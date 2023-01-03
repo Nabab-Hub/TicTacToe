@@ -2,13 +2,13 @@
  
 <p align="center">
   <H1>IMAGE</H1>
-  <img src=".GitHub/logo/logo.jpg">
+  <img src="logo/tic.jpg">
 </p>
 
 #
 <p align="center">
   <H1>IMAGE</H1>
-  <img src=".GitHub/logo/logo1.jpg">
+  <img src="logo/logo1.jpg">
 </p>
 
 
