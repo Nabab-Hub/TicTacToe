@@ -34,8 +34,6 @@ int main()
    outtextxy(250,165,"START");
    outtextxy(227,223,"SETTING");
    outtextxy(265,285,"HELP");
-      if(kbhit())
-      {
 	switch(getch())
 	{
 	  case 'U':u-=60;break;
@@ -46,8 +44,6 @@ int main()
 	  case 'E':goto end;
 	  default:break;
 	}
-      }
-      delay(150);
       cleardevice();
       if(u<150)u=270;
       if(u>270)u=150;
